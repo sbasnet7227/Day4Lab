@@ -3,7 +3,7 @@ height: 100%;
 }
 body{
 background-color: #F3FCD2;
-background-image: url(cat.jpg);
+background-image: url(chicken.jpg);
 
 
 }
@@ -23,7 +23,7 @@ background-color: #C3FAC0
 article img{
     width: 100%;
 
-    max-width: 400px;
+    max-width: 2000px;
     
 
 
