@@ -13,14 +13,17 @@ var wantToByeChicken = prompt('Do you want to order?');
 if(wantToByeChicken == 'yes'){
     document.write('<p> Thank you for being loyal customer.Please head over to front desk or go to Online Payment <a href ="Order.html">Order </p>');
     alert('Thank you for being loyal customer');
-    confirm ('')
+   
     
 
 }
 else{
     document.write('<p> Thank you for visiting us. </p>');
+    
+    confirm ("Are you sure you don't want to order?");
     alert ('Thank you for visiting us, see you again !');
 }
+
 
 function myFunction(){
     var txt = confirm('good');
