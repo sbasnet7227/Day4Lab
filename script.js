@@ -26,5 +26,5 @@ else{
 
 
 function myFunction(){
-    var txt = confirm('good');
+    var txt = confirm('You are awesome');
 }
